@@ -1,2 +1,3 @@
-# MFFAlgoritmizaceAProgramovaniI
-Stránka cvičení z Algoritmizace a Programování I
+# Algoritmizace a Programovani I
+
+Požadavky na zápočet: TODO
