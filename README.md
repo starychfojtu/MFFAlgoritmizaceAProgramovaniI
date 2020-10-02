@@ -1,5 +1,7 @@
 # Algoritmizace a Programovani I
 
+Zrodjový kód ze cvičení najdete vždy ve složkách s daným číslem cvičení.
+
 # Algoritmizace
 
  Podmínky zápočtu:
