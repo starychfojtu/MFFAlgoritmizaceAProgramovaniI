@@ -1,5 +1,7 @@
 # Algoritmizace a Programovani I
 
+Zrodjový kód ze cvičení najdete vždy ve složkách s daným číslem cvičení.
+
 # Algoritmizace
 
  Podmínky zápočtu:
@@ -22,6 +24,7 @@ Do 1.12.2020 je povinné vybrat si téma a odevzdat jednoduchou specifikaci, kde
 Téma můžete mít buď vlastní nebo se nechat inspirovat z následujících zdrojů:
 - https://ksvi.mff.cuni.cz/~holan/zap_zs_2019-20_python.txt
 - https://mj.ucw.cz/vyuka/zap/
+
 Berte na vědomí, že vám téma nemusím schválit na poprvé.
 
 V momentě, kdy máte pocit, že je program s dokumentací hotov, musíte mi ho odprezentovat.
