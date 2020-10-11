@@ -49,6 +49,8 @@ Zdrojový kód mi můžete tak poslat a já vám dám feedback. :)
 Zde uvádím některé obecné zdroje k pythonu:
 - Python cheat sheety (stručné taháky k jazyku): https://www.pythoncheatsheet.org/, https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
 - Zdroje ze stránky přednášky: https://ksvi.mff.cuni.cz/~holan/
+- Awesome list pro učení pythonu: https://github.com/quobit/awesome-python-in-education
+- Awesome list (list známých knihoven) pro python: https://awesome-python.com/
 
 ### Konkrétní zdroje k probíraným látkám
 
