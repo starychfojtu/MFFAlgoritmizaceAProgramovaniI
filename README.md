@@ -34,6 +34,14 @@ Hodnotící kritéria:
 - efektivita: program by měl zvládnout rozumně efektivně
 - přehlednost a architektura kódu: pokud to po vás budu dlouho luštit, nadšený nebudu
 
+# Příklady na procvičení
+
+Pokud máte pocit, že potřebujete programování procvičit nad rámec domácích úkolů a cvičení, samozřejmě můžete. Zde je několik zdrojů:
+- https://ksvi.mff.cuni.cz/~dingle/2019/prog_1/programming_1.html (stránka jednoho z cvičících v minulém roce, u každého cvika naleznete odkaz na exercises)
+- https://projecteuler.net/ (problémy pro pokročilejší)
+
+Zdrojový kód mi můžete tak poslat a já vám dám feedback. :)
+
 ## Konzultace
 
 Pokud potřebujete s něčím pomoct, neváhejte se na mne obrátit prostřednictvím emailu josef.starychfojtu@gmail.com. Rád vám nabídnu časy konzultace, nejspíše v pozdně odpoledních hodinách.
