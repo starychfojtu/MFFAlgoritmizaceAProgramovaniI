@@ -34,6 +34,31 @@ Hodnotící kritéria:
 - efektivita: program by měl zvládnout rozumně efektivně
 - přehlednost a architektura kódu: pokud to po vás budu dlouho luštit, nadšený nebudu
 
+## Příklady na procvičení
+
+Pokud máte pocit, že potřebujete programování procvičit nad rámec domácích úkolů a cvičení, samozřejmě můžete. Zde je několik zdrojů:
+- https://ksvi.mff.cuni.cz/~dingle/2019/prog_1/programming_1.html (stránka jednoho z cvičících v minulém roce, u každého cvika naleznete odkaz na exercises)
+- https://projecteuler.net/ (problémy pro pokročilejší)
+
+Zdrojový kód mi můžete tak poslat a já vám dám feedback. :)
+
+## Zdroje
+
+### Obecné zdroje
+
+Zde uvádím některé obecné zdroje k pythonu:
+- Python cheat sheety (stručné taháky k jazyku): https://www.pythoncheatsheet.org/, https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
+- Zdroje ze stránky přednášky: https://ksvi.mff.cuni.cz/~holan/
+- Awesome list pro učení pythonu: https://github.com/quobit/awesome-python-in-education
+- Awesome list (list známých knihoven) pro python: https://awesome-python.com/
+
+### Konkrétní zdroje k probíraným látkám
+
+- Slicing: https://stackoverflow.com/questions/509211/understanding-slice-notation
+- Proměnné a reference v pythonu: http://foobarnbaz.com/2012/07/08/understanding-python-variables/
+- LEGB rule a variable scopy: https://www.datacamp.com/community/tutorials/scope-of-variables-python
+- Dělení a modulo: http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html
+
 ## Konzultace
 
 Pokud potřebujete s něčím pomoct, neváhejte se na mne obrátit prostřednictvím emailu josef.starychfojtu@gmail.com. Rád vám nabídnu časy konzultace, nejspíše v pozdně odpoledních hodinách.
