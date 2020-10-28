@@ -58,6 +58,7 @@ Zde uvádím některé obecné zdroje k pythonu:
 - Proměnné a reference v pythonu: http://foobarnbaz.com/2012/07/08/understanding-python-variables/
 - LEGB rule a variable scopy: https://www.datacamp.com/community/tutorials/scope-of-variables-python
 - Dělení a modulo: http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html
+- Linked lists: https://realpython.com/linked-lists-python/
 
 ## Konzultace
 
