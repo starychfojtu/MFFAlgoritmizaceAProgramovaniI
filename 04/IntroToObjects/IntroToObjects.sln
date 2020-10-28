@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Vigener", "Vigener.pyproj", "{DA8DD2AD-4C49-40D6-8FFE-A1A9518E1CF8}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IntroToObjects", "IntroToObjects.pyproj", "{B97D7557-BA03-430D-A85D-68FC9F2D1F03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DA8DD2AD-4C49-40D6-8FFE-A1A9518E1CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA8DD2AD-4C49-40D6-8FFE-A1A9518E1CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97D7557-BA03-430D-A85D-68FC9F2D1F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97D7557-BA03-430D-A85D-68FC9F2D1F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {98DE1DB1-05B1-4830-9C64-DE41D0388323}
+		SolutionGuid = {70F20914-7BFE-4668-91C8-6DEF14CA02E0}
 	EndGlobalSection
 EndGlobal

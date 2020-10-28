@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>da8dd2ad-4c49-40d6-8ffe-a1a9518e1cf8</ProjectGuid>
+    <ProjectGuid>b97d7557-ba03-430d-a85d-68fc9f2d1f03</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Vigener.py</StartupFile>
+    <StartupFile>IntroToObjects.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Vigener</Name>
-    <RootNamespace>Vigener</RootNamespace>
+    <Name>IntroToObjects</Name>
+    <RootNamespace>IntroToObjects</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Vigener.py" />
+    <Compile Include="IntroToObjects.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
