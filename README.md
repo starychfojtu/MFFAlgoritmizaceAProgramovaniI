@@ -60,6 +60,10 @@ Zde uvádím některé obecné zdroje k pythonu:
 - Dělení a modulo: http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html
 - Linked lists: https://realpython.com/linked-lists-python/
 
+### Nahrané cvičení
+
+- 04 (Objekty, spojový seznam): https://youtu.be/8in9tt3x8yM
+
 ## Konzultace
 
 Pokud potřebujete s něčím pomoct, neváhejte se na mne obrátit prostřednictvím emailu josef.starychfojtu@gmail.com. Rád vám nabídnu časy konzultace, nejspíše v pozdně odpoledních hodinách.
