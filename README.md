@@ -18,6 +18,8 @@ Zrodjový kód ze cvičení najdete vždy ve složkách s daným číslem cviče
  
 ## Zápočtový program
 
+https://docs.google.com/spreadsheets/d/1WFf2Ix-_4olVxN29vqZRG9sq78VrOF0jztj5hVO7f58/edit?usp=sharing
+
 Zápočtový program je větší ucelený kus software, typicky povahy konzolové aplikace (může se ale jednat i o knihovnu nebo jiný typ SW). Rozsahem odpovídá spíše stovkám řádkům kódu a je doprovozen dokumentací.
 Tipy jak psát dokumentaci naleznete například zde: https://ksvi.mff.cuni.cz/~kryl/dokumentace.htm.
 Do 1.12.2020 je povinné vybrat si téma a odevzdat jednoduchou specifikaci, kde slíbíte, co program bude umět.
