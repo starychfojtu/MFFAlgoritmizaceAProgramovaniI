@@ -6,13 +6,13 @@ Zrodjový kód ze cvičení najdete vždy ve složkách s daným číslem cviče
 
  Podmínky zápočtu:
  - aktivní účast na cvičení
- - nejméně 60% bodů z domácích úkolů
+ - nejméně 60% bodů z domácích úkolů (300 z 500)
 
 # Programovani I
 
  Podmínky zápočtu:
  - aktivní účast na cvičení
- - nejméně 70% bodů z domácích úkolů
+ - nejméně 70% bodů z domácích úkolů (567 z 810)
  - zápočtový test (poslední 1-2 cvičení = 7.1.2021)
  - zápočtový program (včetně dokumentace) nejpozději do 28.2.2021
  
